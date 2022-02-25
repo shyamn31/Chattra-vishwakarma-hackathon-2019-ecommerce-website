@@ -1,0 +1,77 @@
+
+body{
+    background-color: #E3FDFD;
+    margin: 0%;
+}
+.first-half{
+    padding-top: 10%;
+    padding-bottom: 30px;
+    background-color: #95DAC1
+    
+}
+div{
+    text-align: center;
+}
+h1{
+    margin-top: 0%;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+}
+.iam{
+    font-size:  40px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    margin-top: 0%;
+
+}
+.middle-container{
+    margin: 10% 10%;
+}
+.dp1{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 15%;
+}
+.contactbtn{
+    margin: 5px 5px 5px 5px ;
+    border-color: black;
+}
+.contactbtn:hover{
+    color: floralwhite;
+}
+.contact-me{
+    margin: 5px 5px 5px 5px ;
+}
+.dp{
+    margin-top: 30px;
+    border-radius: 100%;
+    width: 15%;
+}
+.ruler{
+    align-items: center;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.mount{
+    position: relative;
+    width: 25%;
+    left: 175px;
+}
+.cloud{
+    position: relative;
+    width: 12%;
+    right: 175px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px 200px;
+    text-align:left;
+    
+}
